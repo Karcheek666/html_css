@@ -1,0 +1,26 @@
+.wrap{
+	width : 900px;
+	margin : auto;
+    overflow: hidden;
+ }
+ content,aside{
+ 	height: 600px;
+ }
+ .content{
+ 	background: red;
+ 	float: left;
+ 	width: 80%;
+ 	height: 157px;
+ }
+aside{
+	background: brown;
+	float: left;
+	width: 20%;
+}
+
+ ul{
+ 	text-decoration: none;
+ }
+ li a:hover{
+ 	text-decoration: underline;
+ } 
